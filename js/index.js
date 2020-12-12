@@ -20,6 +20,10 @@ alert("Hola");
 */
 
 
-
+/*                   EJERCICIO 5
+        var n1 = prompt("Escriba el primer numero");
+        var n2 = prompt("Escriba el segundo numero");
+        alert(parseInt(n1) + parseInt(n2) );
+*/
 
 
