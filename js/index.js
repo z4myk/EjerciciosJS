@@ -27,3 +27,15 @@ alert("Hola");
 */
 
 
+/*                   EJERCICIO 6
+        var n1 = prompt("Escriba el primer numero");
+        var n2 =prompt("escriba el segundo numero");
+
+        if(n1 > n2){
+        document.write(n1 + " es mayor");
+        }else {
+        document.write(n2 + " es mayor");
+        } 
+*/
+
+
