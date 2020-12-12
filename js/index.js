@@ -14,4 +14,12 @@ alert("Hola");
 */
 
 
+/*                   EJERCICIO 4
+        var usuario = prompt("Cual es su nombre?");
+        alert("Hola " + usuario); 
+*/
+
+
+
+
 
