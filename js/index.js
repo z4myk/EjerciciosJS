@@ -39,3 +39,19 @@ alert("Hola");
 */
 
 
+
+/*                   EJERCICIO 7
+        var n1 = prompt("Escriba el primer numero");
+        var n2 = prompt("Escriba el segundo numero");
+        var n3 = prompt("Escriba el tercer numero");
+
+        if(n1 > n2 && n1 > n3) {
+        document.write(n1 + " es mayor");
+        }else if(n2 > n3){
+        document.write(n2 + " es mayor");
+        }else{
+        document.write(n3 + " es mayor");
+    }   
+*/
+
+
