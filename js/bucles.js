@@ -40,3 +40,21 @@ do{
     
 }while (bucle)
 */
+
+
+
+/*            EJERCICIO 3
+let respuesta = ''; 
+
+do {
+    let cadena = prompt('Escribe una palabra');
+    if(respuesta == ""){
+        respuesta = respuesta + cadena;
+     }else{
+         respuesta = respuesta + "-" + cadena;
+     }
+}while(confirm("usted quiere seguir?"))
+
+alert(respuesta);
+*/
+
