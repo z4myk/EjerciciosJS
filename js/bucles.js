@@ -59,7 +59,7 @@ alert(respuesta);
 */
 
 
-/*               EJERCICIO 4
+/*                EJERCICIO NUMERO 4
 let suma = 0;
 
 do{
@@ -75,5 +75,6 @@ do{
 
 }while(confirm('Para añadir otro numero ponga aceptar, si no cancelar.'));
 
-document.write(suma);
-*/
+document.write('El resultado de la suma es: ' + suma);
+*/ 
+
