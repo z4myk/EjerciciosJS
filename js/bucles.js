@@ -58,3 +58,22 @@ do {
 alert(respuesta);
 */
 
+
+/*               EJERCICIO 4
+let suma = 0;
+
+do{
+
+    let numero = prompt('Ingrese un numero')
+
+    if (Number (numero)){
+        suma = suma + (Number(numero));
+    }else {
+        (isNaN(numero))
+        alert('no es un numero'); 
+    }
+
+}while(confirm('Para añadir otro numero ponga aceptar, si no cancelar.'));
+
+document.write(suma);
+*/
