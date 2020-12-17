@@ -78,3 +78,98 @@ do{
 document.write('El resultado de la suma es: ' + suma);
 */ 
 
+
+
+/*                 EJERCICIO NUMERO 5
+let resto = 0;
+let letras = "";
+
+do{
+    let numero = prompt('Introduzca su DNI');
+
+    if(Number(numero) == numero) {
+        numero = Number(numero);
+        if(numero >= 0 && numero <= 99999999){
+        resto = numero % 23;
+
+            switch(resto){
+                case 0:
+                    letras = "T";
+                    break;
+                case 1:
+                    letras = "R";
+                    break;
+                case 2:
+                    letras = "W";
+                    break;
+                case 3:
+                    letras = "A";
+                    break;
+                case 4:
+                    letras = "G";
+                    break;
+                case 5:
+                    letras = "M";
+                    break;
+                case 6:
+                    letras = "Y";
+                    break;
+                case 7:
+                    letras = "F";
+                    break;
+                case 8:
+                    letras = "P";
+                    break;
+                case 9:
+                    letras = "D";
+                    break;
+                case 10:
+                    letras = "X";
+                    break;
+                case 11:
+                    letras = "B";
+                    break;
+                case 12:
+                    letras = "N";
+                    break;
+                case 13:
+                    letras = "J";
+                    break;
+                case 14:
+                    letras = "Z";
+                    break;
+                case 15:
+                    letras = "S";
+                    break;
+                case 16:
+                    letras = "Q";
+                    break;
+                case 17:
+                    letras = "V";
+                    break;
+                case 18:
+                    letras = "H";
+                    break;
+                case 19:
+                    letras = "L";
+                    break;
+                case 20:
+                    letras = "C";
+                    break;
+                case 21:
+                    letras = "K";
+                    break;
+                case 22:
+                    letras = "E";
+                    break;
+                default:
+                alert("Numero erroneo");   
+            }  
+            
+        }
+        alert("Numero: " + numero + ", Letra: " + letras);
+    }else if(numero != undefined){
+        alert(numero + " No es un numero")
+        }
+}while(confirm('¿Quiere colocar otro DNI?'));
+*/
