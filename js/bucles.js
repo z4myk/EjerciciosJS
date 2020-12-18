@@ -173,3 +173,13 @@ do{
         }
 }while(confirm('¿Quiere colocar otro DNI?'));
 */
+
+/*                       EJERCICIO 6 
+for(i = 1; i <= 30; i++){
+
+    for(repeticion = 0; repeticion < i; repeticion++){
+        document.write(i);
+    }
+    document.write("<br>");
+}
+*/
