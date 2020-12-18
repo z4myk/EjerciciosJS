@@ -80,7 +80,7 @@ document.write('El resultado de la suma es: ' + suma);
 
 
 
-/*                 EJERCICIO NUMERO 5
+/*               EJERCICIO NUMERO 5
 let resto = 0;
 let letras = "";
 
