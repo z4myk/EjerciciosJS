@@ -212,3 +212,23 @@ if (Number(numeroRep) == numeroRep){
 */
 
 
+
+
+/*               EJERCICIO NUMERO 8 
+let numeroRep = prompt('Coloque aqui el numero para la gener la piramide.');
+
+if (Number(numeroRep) == numeroRep){
+    if (numeroRep > 0 && numeroRep <= 50){
+       let rep,i;
+        for(i = 0;i<=numeroRep;i++){
+            for(rep= 1; rep<=i; rep++){
+                document.write(rep);
+            }
+            document.write('<br>')
+        }
+    }
+
+}else {
+    alert('El numero que colocaste no es valido');
+}
+*/
