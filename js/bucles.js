@@ -183,3 +183,32 @@ for(i = 1; i <= 30; i++){
     document.write("<br>");
 }
 */
+
+
+ 
+/*                EJERCICIO 7 
+
+let numeroRep = prompt('Coloque aqui el numero de repeticiones');
+// en el if pregunte si lo colocado es un numero 
+if (Number(numeroRep) == numeroRep){
+    // if anidado que chequea si el numero (colocado por el usuario) esta entre 1 y 50 
+    if(numeroRep > 0 && numeroRep <= 50){
+        let rep,i; 
+        // en esta parte se inicia el bucle
+        for(i = numeroRep;i >= 1;i--){
+            for(rep = i; rep >= 1; rep--){
+                document.write(i);
+            }
+            document.write("<br>");
+        }
+    }else{
+        alert('El numero que colocaste no es valido'); 
+    }
+    
+}else {
+    alert('No coloco un numero');
+}
+
+*/
+
+
