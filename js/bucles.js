@@ -232,3 +232,28 @@ if (Number(numeroRep) == numeroRep){
     alert('El numero que colocaste no es valido');
 }
 */
+
+
+/*                EJERCICIO 9
+document.write('<hr>');
+
+let i;
+let n = 500;
+let rep = 0;
+
+for(i = 1; i<=n; i++){
+    document.write(i)
+
+    if(i % 4 == 0){
+        document.write("(Multiplo de 4)");
+    }
+    if(i % 9 == 0){
+        document.write("(Multiplo de 9)");
+    }
+    document.write("<br>");
+    if(i % 5 == 0){
+        document.write("<hr>")
+    }
+}
+*/
+
