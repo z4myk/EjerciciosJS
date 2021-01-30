@@ -51,3 +51,30 @@ document.write(ciudades);
 
 
 
+
+
+
+/*                   -------    FUNCIONES    --------        */
+
+
+/*           EJERCICIO 1 FUNCTIONS 
+
+let resultado = parseInt(prompt("Ingrese un numero"));
+
+cuentaNum(resultado);
+
+function cuentaNum (cuenta){
+    if (cuenta %2 == 0){
+        document.write('El numero es par');
+    }else{
+        document.write('Su numero es impar');
+    }
+}
+*/ 
+
+
+
+
+
+
+
